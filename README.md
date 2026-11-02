@@ -33,6 +33,11 @@ Se utiliza el navegador web para acceder al sitio y examinar su tráfico mediant
 Se selecciona la pestaña **Network (Red)**, se recarga la página y se inspecciona la solicitud HTTP realizada al servidor.
 
 ## 3. Evidencia del tráfico HTTP
+### Evidencia 1: Solicitud HTTP
+![Solicitud HTTP](capturas/01_http_neverssl.png)
+
+### Evidencia 2: Encabezados HTTP
+![Headers HTTP](capturas/02_http_headers.png)
 
 La información que debe verificarse en la solicitud es la siguiente:
 
